@@ -2,8 +2,7 @@
 
 An open source USB to serial adapter based on the cheap CH340C IC.
 
-You can get 3 of these boards [from Oshpark](
-) for $5.35.
+You can get 3 of these boards [from Oshpark](https://oshpark.com/shared_projects/jZ18QKPG) for $5.35.
 
 
 ## BOM
