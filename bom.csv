@@ -1,0 +1,12 @@
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
+"C1, C3, ","2","0.1uF","C_Small","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor, small symbol",""
+"C2, C5, ","2","10uF","C_Small","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor, small symbol",""
+"C4, ","1","22uF","C_Small","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor, small symbol",""
+"C6, ","1","10nF","C_Small","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor, small symbol",""
+"J1, ","1","SERIAL","Conn_01x07","Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical","Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",""
+"J2, ","1","USB_C_Receptacle_USB2.0","USB_C_Receptacle_USB2.0","Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12","USB 2.0-only Type-C Receptacle connector",""
+"JP1, ","1","VSEL","SolderJumper_3_Open","Jumper:SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm","Solder Jumper, 3-pole, open",""
+"R1, R2, ","2","5.1k","R_Small","Resistor_SMD:R_0805_2012Metric","Resistor, small symbol",""
+"U1, ","1","CH340C","CH340G","Package_SO:SOIC-16_3.9x9.9mm_P1.27mm","USB serial converter, UART, SOIC-16",""
+"U2, ","1","AZ1117-3.3","AZ1117-3.3","Package_TO_SOT_SMD:SOT-223","1A 20V Fixed LDO Linear Regulator, 3.3V, SOT-89/SOT-223/TO-220/TO-252/TO-263",""
+
